@@ -32,6 +32,7 @@ Requirements:
 ## Technologies
  * Python 
  * SQL
+ * Word (documentation/guide writing)
 
 ## Authors
   * Bartłomiej Kuźma
