@@ -18,4 +18,24 @@ The main objective of this project was to practice Python programming integrated
  * wish_database.py - python script for creating a new database,
  * wishlist.db - created database.
 
-So, it is possible to create a new database or use the one created before.
+So, it is possible to create a new database or use the one created before.<br>
+
+## Running the app
+The application can be runned with terminal<br>
+requirements:
+ * python 3.xx
+ * sqlite3 library installed
+ * pandas library installed
+ * ast library installed
+ * difflib library installed
+
+## Technologies
+ * Python 
+ * SQL 
+
+## Authors
+  * Bartłomiej Kuźma
+  * Maciej Odziemczyk
+
+## Notes
+Some of the proposed solutions result from course requirements
