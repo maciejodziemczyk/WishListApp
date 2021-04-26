@@ -30,7 +30,7 @@ Requirements:
  * difflib library installed
 
 ## Technologies
- * Python
+ * Python 
  * SQL
 
 ## Authors
