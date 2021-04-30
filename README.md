@@ -35,7 +35,7 @@ Requirements:
  * Word (documentation/guide writing)
 
 ## Authors
-  * Bartłomiej Kuźma
+  * Bartłomiej Kuźma [(GitHub)](https://github.com/bartekkuzma?fbclid=IwAR3ECTUCuv44NIAUiOLB8H-LDyHMCyUPCQr86Z4KgH2-iaOHVSz6uatXZQY)
   * Maciej Odziemczyk
 
 ## Notes
